@@ -1,0 +1,36 @@
+.login-page {
+  background: rgb(168, 226, 236);
+  min-height: 100vh;
+  height: 100%;
+  padding: 1em;
+}
+
+.login-card {
+  padding: 1em;
+  border-radius: 1rem;
+}
+
+.login-pic {
+  align-self: center;
+  justify-self: end;
+}
+
+.login-img {
+  border-radius: 1rem 0 0 1rem;
+}
+
+.detail-card {
+  color: #ff6219;
+}
+
+.login-form h5 {
+  letter-spacing: 1px;
+}
+
+.login-form .reg-link-para {
+  color: #393f81;
+}
+
+.login-form .reg-link-para .reg-link {
+  letter-spacing: 1px;
+}
